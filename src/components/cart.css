@@ -1,0 +1,22 @@
+.proceedTOcheckout{
+    background-color: black;
+    color: white;
+    padding-top: 40px;
+
+}
+.cartProduct{
+    border: 1px solid rgb(190, 190, 190);
+    padding: 10px;
+    margin-top: 10px;
+}
+.cartProduct .cartProdImg{
+    border-radius: 50%;
+}
+.cartProduct .prodName{
+    padding-left: 10px;
+   font-weight: bold;
+}
+.cartProduct .prodPrice{
+margin-left: 9rem;
+font-weight: bold ;
+}

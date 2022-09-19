@@ -1,0 +1,13 @@
+.homefilters{
+background-color: rebeccapurple;
+color: rgb(199, 199, 199);
+margin-top: 10px;
+border-radius: 10px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding-bottom: 20px;
+}
+.h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    padding-top: 20px;
+}

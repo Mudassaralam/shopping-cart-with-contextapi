@@ -1,0 +1,23 @@
+.dropDownCart{
+    background-color: antiquewhite;
+    margin-right: 20rem;
+}
+.dropDownCart .cartItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.dropDownCart img{
+    border-radius: 50%;
+    object-fit: cover;
+}
+.dropDownCart .cartItemDetails{
+        font-weight: bold;
+        margin-right: 10px;
+} 
+.link{
+    width: 100%;
+    background-color: rebeccapurple;
+    color: white;
+    text-decoration: none;
+}
